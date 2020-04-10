@@ -27,4 +27,4 @@ And of course the roots.
 
 <img src="screenshots/artangent_5.png">
 
-You should definitely play a bit with this demo to get a close understanding of artangent scaling. It could be very useful for infographics or didactical purpoces.
+Since you can show all the ℝ² on a finite piece of screen, the arctangent scaling could be very useful for didactical purpoces in maths and physics. You can show interesting functions along with their asymptotas including differential equations' solutions.
